@@ -1,0 +1,112 @@
+{
+    "art": {
+        "day": {
+            "monday": "Nothing",
+            "tuesday": "Foundation of Fine Art",
+            "wednesday": "Studio Practice Introduction",
+            "thursday": "Studio Practice & Exhibition",
+            "friday": "Researching Fine Art",
+            "saturday": "Day off",
+            "sunday": "Day off"
+        }
+    },
+    "biology": {
+        "day": {
+            "monday": "Developing Research And Professional Identity",
+            "tuesday": "Molecular and Cellular Biology",
+            "wednesday": "Practical Skills For Life Scientists",
+            "thursday": "Genetics And Diversity",
+            "friday": "Disease Health And Environment",
+            "saturday": "Day off",
+            "sunday": "Day off"
+        }
+    },
+    "computer science": {
+        "day": {
+            "monday": "Cloud And Cyber",
+            "tuesday": "Software Development",
+            "wednesday": "Networks And Communications",
+            "thursday": "Algorithms And Programming Concepts",
+            "friday": "Data And Distributed Systems",
+            "saturday": "Day off",
+            "sunday": "Day off"
+        }
+    },
+    "criminology": {
+        "day": {
+            "monday": "Theories Of Crime And Justice",
+            "tuesday": "The Criminal Justice Process",
+            "wednesday": "Crime Prevention",
+            "thursday": "Introduction To Research Skills",
+            "friday": "Essential Skills For Criminology",
+            "saturday": "Day off",
+            "sunday": "Day off"
+        }
+    },
+    "engineering": {
+        "day": {
+            "monday": "Fundamentals Of Mechanical And Thermo-Fluid",
+            "tuesday": "Introduction To Engineering Design And Practice",
+            "wednesday": "Fundamentals Of Electrical And Electronic Engineering",
+            "thursday": "Introduction To Engineering Mathematics",
+            "friday": "Professional Development And Engineering Applications",
+            "saturday": "Day off",
+            "sunday": "Day off"
+        }
+    },
+    "english": {
+        "day": {
+            "monday": "Co-Create: Collaborative Project",
+            "tuesday": "Children's Literature",
+            "wednesday": "Nothing",
+            "thursday": "The Craft of Writing",
+            "friday": "The Story Of English Literature",
+            "saturday": "Day off",
+            "sunday": "Day off"
+        }
+    },
+    "game design": {
+        "day": {
+            "monday": "Introduction To Asset Creation",
+            "tuesday": "Introduction To Games Animation",
+            "wednesday": "Mechanics Prototyping",
+            "thursday": "Introduction To Asset Creation",
+            "friday": "Project Managment For Games Design",
+            "saturday": "Day off",
+            "sunday": "Day off"
+        }
+    },
+    "law": {
+        "day": {
+            "monday": "Contract Law",
+            "tuesday": "English Legal System",
+            "wednesday": "Law In Practice",
+            "thursday": "Legal Skills",
+            "friday": "Constitutional Law",
+            "saturday": "Day off",
+            "sunday": "Day off"
+        }
+    },
+    "mathematics": {
+        "day": {
+            "monday": "Probability And Statistics",
+            "tuesday": "Algebra",
+            "wednesday": "Analysis",
+            "thursday": "Geomerty",
+            "friday": "Multivariable Calculus",
+            "saturday": "Day off",
+            "sunday": "Day off"
+        }
+    },
+    "science": {
+        "day": {
+            "monday": "",
+            "tuesday": "",
+            "wednesday": "",
+            "thursday": "",
+            "friday": "",
+            "saturday": "Day off",
+            "sunday": "Day off"
+        }
+    }
+}
