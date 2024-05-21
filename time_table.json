@@ -1,83 +1,162 @@
 {
     "art": {
-        "monday": "Nothing",
-        "tuesday": "Foundation of Fine Art",
-        "wednesday": "Studio Practice Introduction",
-        "thursday": "Studio Practice & Exhibition",
-        "friday": "Researching Fine Art",
-        "saturday": "Day off",
-        "sunday": "Day off"
+        "modules": [
+            "Foundation of Fine Art",
+            "Studio Practice Introduction",
+            "Studio Practice & Exhibition",
+            "Researching Fine Art"
+        ],
+        "days":{
+            "monday": "Nothing",
+            "tuesday": "Foundation of Fine Art",
+            "wednesday": "Studio Practice Introduction",
+            "thursday": "Studio Practice & Exhibition",
+            "friday": "Researching Fine Art",
+            "saturday": "Day off",
+            "sunday": "Day off"
+        }
     },
     "biology": {
-        "monday": "Developing Research And Professional Identity",
-        "tuesday": "Molecular and Cellular Biology",
-        "wednesday": "Practical Skills For Life Scientists",
-        "thursday": "Genetics And Diversity",
-        "friday": "Disease Health And Environment",
-        "saturday": "Day off",
-        "sunday": "Day off"
+        "modules": [
+            "Developing Research And Professional Identity",
+            "Molecular and Cellular Biology",
+            "Practical Skills For Life Scientists",
+            "Genetics And Diversity",
+            "Disease Health And Environment"
+        ],
+        "days": {
+            "monday": "Developing Research And Professional Identity",
+            "tuesday": "Molecular and Cellular Biology",
+            "wednesday": "Practical Skills For Life Scientists",
+            "thursday": "Genetics And Diversity",
+            "friday": "Disease Health And Environment",
+            "saturday": "Day off",
+            "sunday": "Day off"
+        }
     },
     "computer science": {
-        "monday": "Cloud And Cyber",
-        "tuesday": "Software Development",
-        "wednesday": "Networks And Communications",
-        "thursday": "Algorithms And Programming Concepts",
-        "friday": "Data And Distributed Systems",
-        "saturday": "Day off",
-        "sunday": "Day off"
+        "modules": [
+            "Cloud And Cyber",
+            "Software Development",
+            "Networks And Communications",
+            "Algorithms And Programming Concepts",
+            "Data And Distributed Systems"
+        ],
+        "days": {
+            "monday": "Cloud And Cyber",
+            "tuesday": "Software Development",
+            "wednesday": "Networks And Communications",
+            "thursday": "Algorithms And Programming Concepts",
+            "friday": "Data And Distributed Systems",
+            "saturday": "Day off",
+            "sunday": "Day off"
+        }
     },
     "criminology": {
-        "monday": "Theories Of Crime And Justice",
-        "tuesday": "The Criminal Justice Process",
-        "wednesday": "Crime Prevention",
-        "thursday": "Introduction To Research Skills",
-        "friday": "Essential Skills For Criminology",
-        "saturday": "Day off",
-        "sunday": "Day off"
+        "modules": [
+            "Theories Of Crime And Justice",
+            "The Criminal Justice Process",
+            "Crime Prevention",
+            "Introduction To Research Skills",
+            "Essential Skills For Criminology"
+        ],
+        "days": {
+            "monday": "Theories Of Crime And Justice",
+            "tuesday": "The Criminal Justice Process",
+            "wednesday": "Crime Prevention",
+            "thursday": "Introduction To Research Skills",
+            "friday": "Essential Skills For Criminology",
+            "saturday": "Day off",
+            "sunday": "Day off"
+        }
     },
     "engineering": {
-        "monday": "Fundamentals Of Mechanical And Thermo-Fluid",
-        "tuesday": "Introduction To Engineering Design And Practice",
-        "wednesday": "Fundamentals Of Electrical And Electronic Engineering",
-        "thursday": "Introduction To Engineering Mathematics",
-        "friday": "Professional Development And Engineering Applications",
-        "saturday": "Day off",
-        "sunday": "Day off"
+        "modules": [
+            "Fundamentals Of Mechanical And Thermo-Fluid",
+            "Introduction To Engineering Design And Practice",
+            "Fundamentals Of Electrical And Electronic Engineering",
+            "Introduction To Engineering Mathematics",
+            "Professional Development And Engineering Applications"
+        ],
+        "days": {
+            "monday": "Fundamentals Of Mechanical And Thermo-Fluid",
+            "tuesday": "Introduction To Engineering Design And Practice",
+            "wednesday": "Fundamentals Of Electrical And Electronic Engineering",
+            "thursday": "Introduction To Engineering Mathematics",
+            "friday": "Professional Development And Engineering Applications",
+            "saturday": "Day off",
+            "sunday": "Day off"
+        }
     },
     "english": {
-        "monday": "Co-Create: Collaborative Project",
-        "tuesday": "Children's Literature",
-        "wednesday": "Nothing",
-        "thursday": "The Craft of Writing",
-        "friday": "The Story Of English Literature",
-        "saturday": "Day off",
-        "sunday": "Day off"
+        "modules": [
+            "Co-Create: Collaborative Project",
+            "Children's Literature",
+            "The Craft of Writing",
+            "The Story Of English Literature"
+        ],
+        "days": {
+            "monday": "Co-Create: Collaborative Project",
+            "tuesday": "Children's Literature",
+            "wednesday": "Nothing",
+            "thursday": "The Craft of Writing",
+            "friday": "The Story Of English Literature",
+            "saturday": "Day off",
+            "sunday": "Day off"
+        }
     },
     "game design": {
-        "monday": "Introduction To Asset Creation",
-        "tuesday": "Introduction To Games Animation",
-        "wednesday": "Mechanics Prototyping",
-        "thursday": "Introduction To Asset Creation",
-        "friday": "Project Managment For Games Design",
-        "saturday": "Day off",
-        "sunday": "Day off"
+        "modules": [
+            "Introduction To Asset Creation",
+            "Introduction To Games Animation",
+            "Mechanics Prototyping",
+            "Introduction To Asset Creation",
+            "Project Managment For Games Design"
+        ],
+        "days": {
+            "monday": "Introduction To Asset Creation",
+            "tuesday": "Introduction To Games Animation",
+            "wednesday": "Mechanics Prototyping",
+            "thursday": "Introduction To Asset Creation",
+            "friday": "Project Managment For Games Design",
+            "saturday": "Day off",
+            "sunday": "Day off"
+        }
     },
     "law": {
-        "monday": "Contract Law",
-        "tuesday": "English Legal System",
-        "wednesday": "Law In Practice",
-        "thursday": "Legal Skills",
-        "friday": "Constitutional Law",
-        "saturday": "Day off",
-        "sunday": "Day off"
+        "modules": [
+            "Contract Law",
+            "English Legal System",
+            "Law In Practice",
+            "Legal Skills",
+            "Constitutional Law"
+        ],
+        "days": {
+            "monday": "Contract Law",
+            "tuesday": "English Legal System",
+            "wednesday": "Law In Practice",
+            "thursday": "Legal Skills",
+            "friday": "Constitutional Law",
+            "saturday": "Day off",
+            "sunday": "Day off"
+        }
     },
     "mathematics": {
-        "monday": "Probability And Statistics",
-        "tuesday": "Algebra",
-        "wednesday": "Analysis",
-        "thursday": "Geomerty",
-        "friday": "Multivariable Calculus",
-        "saturday": "Day off",
-        "sunday": "Day off"
+        "modules": [
+            "Probability And Statistics",
+            "Algebra",
+            "Analysis",
+            "Geomerty",
+            "Multivariable Calculus"
+        ],
+        "days": {
+            "monday": "Probability And Statistics",
+            "tuesday": "Algebra",
+            "wednesday": "Analysis",
+            "thursday": "Geomerty",
+            "friday": "Multivariable Calculus",
+            "saturday": "Day off",
+            "sunday": "Day off"
+        }
     }
 }
