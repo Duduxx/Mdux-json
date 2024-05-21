@@ -3,14 +3,14 @@
         "modules": [
             "Foundation of Fine Art",
             "Studio Practice Introduction",
-            "Studio Practice & Exhibition",
+            "Studio Practice And Exhibition",
             "Researching Fine Art"
         ],
         "days":{
             "monday": "Nothing",
             "tuesday": "Foundation of Fine Art",
             "wednesday": "Studio Practice Introduction",
-            "thursday": "Studio Practice & Exhibition",
+            "thursday": "Studio Practice And Exhibition",
             "friday": "Researching Fine Art",
             "saturday": "Day off",
             "sunday": "Day off"
