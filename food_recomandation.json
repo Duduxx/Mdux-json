@@ -1,0 +1,100 @@
+{
+    "chicken": {
+      "name": "thai green chicken curry",
+      "ingredients": [
+        "225g potatoes cut into chunks",
+        "100g green beans trimmed and halved",
+        "1 tbsp vegetable oil",
+        "1 garlic clove",
+        "1 rounded tbsp or 4 tsp thai green curry paste",
+        "400ml coconut milk",
+        "2 tsp thai fish sauce",
+        "1 tsp caster sugar",
+        "450g boneless skinless chicken cut into bite size pieces",
+        "2 lime leaves finely shredded or 3 wide strips line zest",
+        "handful of basil leaves",
+        "rice to serve"
+      ],
+      "recipe": [
+        "Step 1: Put 225g potatoes, cut into chunks, in a pan of boiling water and cook for 5 minutes.",
+        "Step 2: Add 100g trimmed and halved green beans and cook for a further 3 minutes, by which time both should be just tender but not too soft. Drain and put to one side.",
+        "Step 3: In a wok or large frying pan, heat 1 tbsp vegetable or sunflower oil until very hot, then drop in 1 chopped garlic clove and cook until golden, this should take only a few seconds. Do not let it go very dark or it will spoil the taste.",
+        "Step 4: Spoon in 1 rounded tbsp Thai green curry paste and stir it around for a few seconds to begin to cook the spices and release all the flavours.",
+        "Step 5: Pour in a 400ml can of coconut milk and let it come to a bubble.",
+        "Step 6: Stir in 2 tsp Thai fish sauce and 1 tsp caster sugar, then 450g bite-size chicken pieces. Turn the heat down to a simmer and cook, covered, for about 8 minutes until the chicken is cooked.",
+        "Step 7: Tip in the potatoes and beans and let them warm through in the hot coconut milk, then add 2 finely shredded lime leaves (or 3 wide strips lime zest).",
+        "Step 8: Add a good handful basil leaves, but only leave them briefly on the heat or they will quickly lose their brightness.",
+        "Step 9: Scatter with lime to garnish and serve immediately with boiled rice."
+        ]
+    },
+    "beef": {
+      "name": "polish patties",
+      "ingredients": [
+        "1 crusty white bread roll",
+        "120ml milk",
+        "1 finely chopped onion",
+        "vegatable oil for frying",
+        "500g beef mince",
+        "1 egg",
+        "1 garlic clove",
+        "75g dried breadcrumbs",
+        "pinch of marjoram"
+      ],
+      "recipe": [
+        "Step 1: Soak the bread roll in the milk so it softens completely.",
+        "Step 2: Fry the onion in the oil for around 8 mins or until soft and golden. Add the fried onion to the beef mince along with the egg, garlic, marjoram and some seasoning.",
+        "Step 3: Squeeze the excess milk from the bread roll and add it to the mince mixture. Mix everything together and season well.",
+        "Step 4: Divide the meat into 8 patties. Tip the dried breadcrumbs into a shallow bowl and coat the patties in it, all over.",
+        "Step 5: Heat some oil in a deep frying pan and fry the patties in batches on both sides until browned and cooked through, about 6-7 mins on each side."
+      ]
+    },
+    "pork": {
+      "name": "pork stroganoff",
+      "ingredients": [
+        "3 tbsp sunflower oil",
+        "500g chestnut mushrooms sliced",
+        "400g pork fillet cut into 1cm pieces",
+        "2 onions sliced into half moons",
+        "1 tbsp smoked paprika",
+        "2 tbs dijon mustard",
+        "200ms pork or chicken stock",
+        "300ml pot soured cream",
+        "2 tbsp chopped parsley",
+        "cooked rice, potatoes or tagliatelle to serve"
+      ],
+      "recipe": [
+        "Step 1: Heat 2 tsp of the oil in a large frying pan over a medium heat and fry half the mushrooms for a few minutes until their liquid is released and evaporates. Remove from the pan and set aside, then repeat with the remaining mushrooms and another 2 tsp oil. Set aside",
+        "Step 2: In the same pan, fry the pork for 5-8 mins in 2 tsp oil until browned. Set aside.",
+        "Step 3: Fry the onions in the remaining 1 tbsp oil over a low-medium heat until beginning to caramelise, around 10-12 mins, then tip the mushrooms back in along with the pork.",
+        "Step 4: Sprinkle over the paprika and spoon in the Dijon mustard. Give everything a good mix to combine.",
+        "Step 5: Pour in the stock, season well with salt and pepper, then mix again.",
+        "Step 6: At this point, you can remove from the heat, leave to cool, then cover and chill. Will keep chilled for three days or frozen for up to three months. When ready to serve, defrost fully before bringing to a simmer and continuing with the recipe."
+      ]
+    },
+    "fish": {
+      "name": "fish pie",
+      "ingredients": [
+        "1kg potatoes peeled and halved",
+        "400ml milk plus a splash",
+        "25g butter plus a knob",
+        "25g plain flour",
+        "4 spring onions finely sliced",
+        "400g fish fillet, skin removed and chopped into 1cm cubes",
+        "1 tsp dijon or english mustard",
+        "small bunch of chives, finely snipped",
+        "handful frozen sweetcorn",
+        "handful frozen petit pois",
+        "handful grated cheddar"
+      ],
+      "recipe": [
+            "Step 1: Heat the oven to 200C/fan 180C/gas mark 6.",
+            "Step 2: Put 1kg potatoes, peeled and halved, in a saucepan and pour over enough water to cover them. Bring to the boil and then simmer until tender.",
+            "Step 3: When cooked, drain thoroughly and mash with a splash of milk and a knob of butter. Season with ground black pepper.",
+            "Step 4: Put 25g butter, 25g plain flour and 4 finely sliced spring onions in another pan and heat gently until the butter has melted, stirring regularly. Cook for 1-2 mins.",
+            "Step 5: Gradually whisk in 400ml milk using a balloon whisk if you have one. Bring to the boil, stirring to avoid any lumps and sticking at the bottom of the pan. Cook for 3-4 mins until thickened.",
+            "Step 6: Take off the heat and stir in the deskinned and cubed fish, 1 tsp Dijon or English mustard, a small bunch of finely snipped chives, handful of sweetcorn and handful of petits pois. Spoon into an ovenproof dish or 6-8 ramekins.",
+            "Step 7: Spoon the potato on top and sprinkle with a handful of grated cheddar cheese.",
+            "Step 8: Pop in the oven for 20-25 mins or until golden and bubbling at the edges. Alternatively, cover and freeze the pie or mini pies for another time."
+        ]
+    }
+  }
